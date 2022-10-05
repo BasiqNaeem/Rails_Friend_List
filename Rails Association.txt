@@ -1,0 +1,6 @@
+We do association in models-> friend.rb and user.rb files 
+
+we add a user id in friends table by useing the command below so that we can keep tracks which friends belongs to which users
+
+
+->rails g migration add_user_id_to_friends user_id:integer:index
