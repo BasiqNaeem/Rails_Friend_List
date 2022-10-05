@@ -1,24 +1,10 @@
-# README
+# Friend list
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hey There! My Name is Muhammad Basiq.
+This is my Friend List APP Based on CRUD(CREATE, READ, UPDATE and DELETE) model of RAILS in which you can
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ADD
+READ
+UPDATE
+DELETE
+your Friends. By using it you can easily maintain your friend's contact information in case you lost your frind's contact you can Consult your friend list to get his/her contact again.
